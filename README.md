@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
 | ------- |
