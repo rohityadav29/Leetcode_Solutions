@@ -1,6 +1,6 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
+       // Arrays.sort(nums);
            int n=nums.length;
   int XOR1=0;
         for(int i=1;i<=n;i++){
