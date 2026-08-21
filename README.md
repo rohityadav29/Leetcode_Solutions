@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
