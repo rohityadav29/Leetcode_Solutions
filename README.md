@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
