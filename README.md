@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohityadav29/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
